@@ -26,3 +26,7 @@ A 2D solar system simulation built with OpenGL/GLUT in C++.
 ## How to Compile
 ```bash
 g++ Solar_system_simulation.cpp -o simulation -lGL -lGLU -lglut
+### Preview
+![Solar System Simulation](sss_s1.jpeg)
+![Solar System Simulation](sss_s2.jpeg)
+![Solar System Simulation](sss_s3.jpeg)
